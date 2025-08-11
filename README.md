@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghvind Yadav</h1>
 <h3 align="center">A Software Engineer & Data Science Enthusiast</h3>
 
-- 👔 I’m currently working as Software Engineer in  **Bargaun,Inc**
+- 👔 I’m currently working as Software Engineer in  **Baragaun,Inc**
   
-- 🌱 I’m currently exploring **Machine and Deep Learning**
+- 🌱 I’m currently exploring **Machine & Deep Learning**
 
 - 📫 How to reach me **vadayraghvind@gmail.com**
 

@@ -43,6 +43,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghvind-yadav&show_icons=true&locale=en&layout=compact" alt="raghvind-yadav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghvindYadav&show_icons=true&locale=en&layout=compact" alt="raghvind-yadav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghvind-yadav&show_icons=true&locale=en" alt="raghvind-yadav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghvindYadav&show_icons=true&locale=en" alt="raghvind-yadav" /></p>

@@ -3,7 +3,7 @@
 
 - 👔 I’m currently working as Software Engineer in  **Baragaun,Inc**
   
-- 🌱 I’m currently exploring **Machine & Deep Learning**
+- 🌱 I’m currently exploring **AI Engineer**
 
 - 📫 How to reach me **vadayraghvind@gmail.com**
 
